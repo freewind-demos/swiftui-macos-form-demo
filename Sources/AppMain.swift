@@ -6,6 +6,6 @@ struct FormApp: App {
         Window("Form 表单布局", id: "main") {
             ContentView()
         }
-        .defaultSize(width: 500, height: 600)
+        .defaultSize(width: 980, height: 680)
     }
 }
